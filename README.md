@@ -2,12 +2,12 @@
 Distributed Systems course
 
 
-| Name             | Student ID | Email                      |
-| ---------------- | ---------- | -------------------------- |
-| Janne Yrjänäinen | Y58554010  | jyrjanai20@student.oulu.fi |
-| Joona Syrjäkoski | Y58172266  | jsyrjako20@student.oulu.fi |
-| Joonas Ojanen    | 2305882    | jojanen20@student.oulu.fi  |
-| Lasse Rapo       | Y58553703  | lrapo20@student.oulu.fi    |
+| Name             |
+| ---------------- |
+| Janne Yrjänäinen |
+| Joona Syrjäkoski |
+| Joonas Ojanen    |
+| Lasse Rapo       |
 
 
 ## Virtual environment
