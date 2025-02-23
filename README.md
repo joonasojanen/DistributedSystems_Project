@@ -1,5 +1,6 @@
 # DistributedSystems
-Distributed Systems course
+
+This project involved building a distributed system in Docker, featuring a server and multiple clients for a Rock-Paper-Scissors game
 
 
 | Name             |
